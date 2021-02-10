@@ -1,0 +1,15 @@
+{
+  "name": "@yadagency/prettier-config",
+  "version": "1.0.0",
+  "description": "YADA's prettier configuration",
+  "main": "index.json",
+  "repository": "git@github.com:yadagency/prettier-config.git",
+  "author": "YADA <contact@yada.email>",
+  "license": "MIT",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
+  "peerDependencies": {
+    "prettier": "^2.0.0"
+  }
+}
