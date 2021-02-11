@@ -11,5 +11,8 @@
   "jsxBracketSameLine": false,
   "arrowParens": "always",
   "proseWrap": "always",
-  "endOfLine": "lf"
+  "endOfLine": "lf",
+  "phpVersion": "8.0",
+  "trailingCommaPHP": true,
+  "braceStyle": "psr-2"
 }
